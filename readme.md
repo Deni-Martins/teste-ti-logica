@@ -10,6 +10,8 @@ As instruções nesse arquivo irão criar o banco de dados e fazer uso do mesmo,
 
 As instruções nesse arquivo irão fazer uso do banco de dados e sem seguida irá popular as tabelas do banco
 
+Obs.: Ester arquivo se difere do da primeira branch por haver mais registros incluídos
+
 ### 3 - Certifique-se da configuração do teste para acessar o banco de dados
 
 O teste foi realizado utilizando PDO, certifique-se de que os dados contidos na linha 3 do arquivo index.php correspondem com o SGBD utilizado.
